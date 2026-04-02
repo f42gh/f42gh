@@ -5,7 +5,7 @@ B3/age 20
 - JS/TS basics
   -> Hono, Next.js, Bun, React, etc  
 - Python ML
-  - PyTorch, etc
+  - numpy, pandas, sklearn, PyTorch, etc
 - HTML/CSS
 - DB basics
   -> SQlite, PostgreSQL
