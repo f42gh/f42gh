@@ -1,10 +1,13 @@
 ## Sora Maekawa
-B3/age 20
+B3 Faculty of Data Science 
+age 20 
+
 
 ## currently learning 
 - JS/TS basics
   -> Hono, Next.js, Bun, React, etc  
-- Python ML
+- Python ML and else
   - numpy, pandas, sklearn, PyTorch, etc
+  - streamlit, fastapi, sqlite
 - DB basics
-  -> SQlite, PostgreSQL
+  -> sqlite, PostgreSQL
