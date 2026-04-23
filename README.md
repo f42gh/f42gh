@@ -1,6 +1,6 @@
 ## Sora Maekawa
-B3 Faculty of Data Science 
-age 20 
+- B3 Faculty of Data Science 
+- age 20 
 
 
 ## currently learning 
