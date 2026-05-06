@@ -4,8 +4,9 @@
 
 
 ## currently learning 
-- JS/TS basics
-  -> Hono, Next.js, Bun, React, etc  
+- C++  
+  - Basic Algorithms
+- React
 - Python ML and else
   - numpy, pandas, sklearn, PyTorch, etc
   - streamlit, fastapi, sqlite
