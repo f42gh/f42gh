@@ -5,10 +5,7 @@
 
 ## currently learning 
 - C++  
-  - Basic Algorithms
-- React
-- Python ML and else
+- Python
   - numpy, pandas, sklearn, PyTorch, etc
   - streamlit, fastapi, sqlite
-- DB basics
-  -> sqlite, PostgreSQL
+- SQL
